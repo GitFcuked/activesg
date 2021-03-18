@@ -1,1 +1,3 @@
 # activesg
+
+*To start bot
